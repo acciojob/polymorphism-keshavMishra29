@@ -18,6 +18,6 @@ public class Main {
         p.product(2, 3);
         p.product(2, 3, 5);
         p.product(3.0, 5.0);
+        }
     }
-
-}}
+}
